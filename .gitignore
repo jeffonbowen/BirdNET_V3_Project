@@ -8,3 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
+
+birdnet-V3.0-dev/
